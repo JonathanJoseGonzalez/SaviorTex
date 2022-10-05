@@ -4,13 +4,13 @@ I'm currently a programming student, looking forward to learn the most used lang
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on learning the basics</p>
-<p>🌱 I'm currently learning portugol</p>
+<p>🌱 I'm currently learning Git/GitHhub</p>
 <p>💬 Ask me about Pharmacy and Medicine stuff</p>
 <p>📫 How to reach me? jonathanjosegonzalez1996@hotmail.com</p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/jonathangonzalezfarmaceutico/">here</a></p>
 <p>⚡ Fun Fact: I am a legalized drug dealer</p>
 
-## 💻 Skills
+## 💻 Skills (actually, my interests kk)
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">

@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Jonathan
 
-I'm currently a programming student, looking forward to learn the most used languages in this area. My personal objective is to swtich my field of work - to have a nice work environment, mobility and time to enjoy my life doing what I love (which programming I just found to be one of these things kk)
+I'm currently a programming student, looking forward to learn the most used languages in this area. My personal goal is to swtich my field of work - to have a nice work environment, mobility and time to enjoy my life doing what I love (which programming I just found to be one of these things kk)
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on learning the basics</p>
